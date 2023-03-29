@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Proyrecto1(Interfaz).props" />
+</Project>
